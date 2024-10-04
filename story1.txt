@@ -1,1 +1,2 @@
 Line1 in story1.txt
+Line2
